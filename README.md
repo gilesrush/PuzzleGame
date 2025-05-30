@@ -11,12 +11,22 @@ Username: jame
 Password: 4222
 Alternatively, you may register your own account and return to the login screen to log in.
 
-🔄 ソフトウェア更新 / Software Updates
+🔄 更新 / Updates
 
-本ソフトは不定期にアップデートされます。
+不定期にアップデートされます。
 This software is updated irregularly.
 
 📩 お問い合わせ / Contact
 
-ご不明な点がございましたら、以下のメールアドレスまでお問い合わせください：linebreakctmn0008@mail4.doshisha.ac.jp
-If you have any questions, feel free to contact us at:linebreakctmn0008@mail4.doshisha.ac.jp
+ご不明な点がございましたら、以下のメールアドレスまでお問い合わせください：ctmn0008@mail4.doshisha.ac.jp
+If you have any questions, feel free to contact us at:ctmn0008@mail4.doshisha.ac.jp
+
+
+実行する際は、このファイルとJavaプロジェクトのすべてのフォルダを新しいフォルダに移動してください。たとえば、デスクトップに新しいフォルダを作成して、そこに移してください。移動が完了すれば、正常にファイルを開くことができます。
+
+※注意：JavaのバージョンはJava 24である必要があります。そうでない場合はエラーが発生します。
+
+
+When running, please move this file and all folders from your Java root directory into a new folder. For example, create a new folder on your desktop and move everything there. Once moved, the file can be opened normally.
+
+Note: Java version must be Java 24, otherwise an error will occur.
